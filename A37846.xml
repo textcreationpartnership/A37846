@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More ordinances and orders of the Lords and Commons assembled in Parliament concerning sequestring of the estates of delinquents, papists, and intelligencers.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37846</idno>
+            <idno type="STC">Wing E1662A</idno>
+            <idno type="STC">ESTC R26105</idno>
+            <idno type="EEBO-CITATION">09358365</idno>
+            <idno type="OCLC">ocm 09358365</idno>
+            <idno type="VID">42826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More ordinances and orders of the Lords and Commons assembled in Parliament concerning sequestring of the estates of delinquents, papists, and intelligencers.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>6, 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  To 1688.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42826:1"/>
+            <pb facs="tcp:42826:1" rendition="simple:additions"/>
+            <p>MORE ORDINANCES AND ORDERS OF THE LORDS and COMMONS Aſſembled in PARLIAMENT: Concerning Sequeſtring Of the Eſtates of Delinquents, Papiſts and Intelligencers.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords aſſembled in Parliament, That theſe Ordinances and Orders be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1646.</p>
+            <pb facs="tcp:42826:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:42826:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 26. Septemb. 1643.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Order of the Lords and Commons Aſſembled in Parliament: For publiſhing the Ordinance of Sequeſtration of the King, Queene, and Princes Revenue.</p>
+            </argument>
+            <p>WHereas the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, upon the 21 day of this inſtant moneth of September, paſſed an Ordinance for the ſeizing and receiving of his Majeſties, the Queens, and Princes Revenue, for the ſervice of the King and Parliament, to<g ref="char:EOLhyphen"/>gether with all Arrears thereof, and other Debts any way due to his Majeſty, the Queen, or Prince. It is therefore this day Ordered by the ſaid Lords and Commons, That the ſaid Ordinance ſhall be forthwith publiſhed in the ſeverall Counties, and all the Market Towns within the Realme of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Port and Towne of <hi>Berwick,</hi> to the
+<pb n="2" facs="tcp:42826:3"/>
+intent that all Farmers, Fee-Farmers, Tenants, Debters, Receivers, and all the Officers and Perſons whom it ſhall concerne, may take no<g ref="char:EOLhyphen"/>tice thereof, and conforme themſelves there<g ref="char:EOLhyphen"/>unto, and pay their Moneys reſpectively to ſuch Perſons and Receivers as are or ſhall be appoin<g ref="char:EOLhyphen"/>ted by vertue and according to the direction of the ſaid Ordinance, and not to any other per<g ref="char:EOLhyphen"/>ſon whatſoever, as they will anſwer the con<g ref="char:EOLhyphen"/>trary at their perill. And it is further Ordered, That the Deputy-Lieutenants, and Commit<g ref="char:EOLhyphen"/>tees of Parliament, or any one of the ſaid De<g ref="char:EOLhyphen"/>puty-Lieutenants, or Committees in each ſeve<g ref="char:EOLhyphen"/>rall County, City, or place within this Realme of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Port or Towne of <hi>Berwick,</hi> are hereby authorized and required to cauſe the ſame to be publiſhed ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 30. Septemb. 1643.</date>
+               </dateline>
+            </opener>
+            <p>WHereas the Companies of <hi>London</hi> have beene rated by an Act of Common-Councell, towards the raiſing of Moneys ad<g ref="char:EOLhyphen"/>vanced
+<pb n="3" facs="tcp:42826:3"/>
+by the City for the publique Service; for the repayment whereof, the City is ſecured by Ordinance of Parliament. And whereas there are divers Companies that are behinde in the payment of the Rates ſo aſſeſſed upon them; It is this day Ordered by the Lords and Commons, That the ſaid Companies ſo in Ar<g ref="char:EOLhyphen"/>reare doe forthwith pay their Rates aſſeſſed upon them. Or otherwiſe that the Lands and Revenues of the ſaid Companies ſhall be ſe<g ref="char:EOLhyphen"/>queſtred in the like manner, as the Eſtates and Revenues of Delinquents by the Ordinance of Sequeſtrations are and ought to be Sequeſtred.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 18. Octob. 1643.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Order of the Lords and Commons For the Reſtraint of Paſſage from <hi>Oxford,</hi> or any other part of the Kings Army to <hi>London,</hi> or to the parts adjacent, or any part of the Army under Command of the Earle of <hi>Eſſex,</hi> both by Land and Water, upon the penalty expreſſed.</p>
+            </argument>
+            <p>ORdered by the Lords and Commons in Parliament aſſembled, That whatſoever
+<pb n="4" facs="tcp:42826:4"/>
+perſon ſhall come from <hi>Oxford,</hi> or any part of the Kings Army to <hi>London,</hi> or the parts adja<g ref="char:EOLhyphen"/>cent, or to any part of the Army under the command of the Earl of <hi>Eſſex,</hi> or to any Fort or Court of Guard kept by the Authority of both Houſes of Parliament, without the Warrant of both Houſes of Parliament, or the Lord Ge<g ref="char:EOLhyphen"/>nerall the Earle of <hi>Eſſex,</hi> ſhall be apprehended as Spies and Intelligencers, and be proceeded againſt according to the Rules and Grounds of Warre. And it is further Ordered, That the like care be taken by Water, for the apprehen<g ref="char:EOLhyphen"/>ding of the perſons aforeſaid: And all Cap<g ref="char:EOLhyphen"/>tains of Guards, and Officers, and all other per<g ref="char:EOLhyphen"/>ſons, are required to be very diligent in appre<g ref="char:EOLhyphen"/>hending the ſaid perſons: And it is further Or<g ref="char:EOLhyphen"/>dered, That this Order be printed and publiſh<g ref="char:EOLhyphen"/>ed, and ſent to the ſeverall Courts of Guard, both by Water and Land.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 14. Septemb. 1644.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That no Trees or Underwood be felled, or cut in Birch-wood,
+<pb n="5" facs="tcp:42826:4"/>
+Cranborn-Chace, or in any other of the Parks, Forreſts, Chaces, or Woods of the Kings, under the power of the Parliament, by vertue or color of the Ordinance of Parliament for felling of Woods for the City, without the knowledge, conſent, and allowance of the Committee of the Kings Revenue: And that whatſoever Tim<g ref="char:EOLhyphen"/>ber, or other Wood is already felled and cut in any of theſe places, That none of it ſhalbe car<g ref="char:EOLhyphen"/>ried away, without the conſent and allowance of the ſaid Committee. And that thoſe who have felled any Trees, or received or bought any of the Trees in any of the Forreſts, Parkes, or Woods, be brought to an accompt by the Committee of the Revenue.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Veneris 18. Julii 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That all the Fee-Farm-Rents, other Rents and Revenues whatſoever payable to the Crowne out of any Lands thorowout the Kingdome, and the Arrears thereof, ſhall be
+<pb n="6" facs="tcp:42826:5"/>
+paid in to the reſpective Receivers thereof in the ſeverall Counties by thoſe in whoſe hands they are; And are not to bee accompted for part of the Sequeſtrations, or to be detained by any Sequeſtrators by colour of any Ordi<g ref="char:EOLhyphen"/>nances or Orders for Sequeſtrations whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="1" facs="tcp:42826:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 12 Martii. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That the Lord Maior of <hi>London</hi> and Court of Aldermen, do preſently ſeize and ſequeſter into their hands the Houſes, Rents, Re<g ref="char:EOLhyphen"/>venues, Books, Deeds, Evidences, and all Writings belonging to the Deane, Deane and Chapter, or other Prebendaries, Officers, or Miniſters belonging to the Cathedrall Church of Pauls <hi>London</hi> in right of the ſaid Church; As likewiſe all Moneys, Goods, and Materials, bought, or given, and brought into any place or perſon, for Repayring or furniſhing of the ſaid Church, or otherwiſe appertaining there<g ref="char:EOLhyphen"/>unto, in whoſe hands ſoever the ſame remaineth. And that out of the ſaid Revenues, they pay unto Dr. <hi>Bur<g ref="char:EOLhyphen"/>ges</hi> one hundred pounds at the end of every quarter of the yeare, The firſt Paiment to begin at the next Lady day, and thence to continue, according to the true intention of a former Order of both Houſes of Parliament. And moreover, That they ſet out and deliver unto him a good and convenient houſe for his dwelling, well repayred and fitted for his uſe. And for better execution of this Order, They are to conſtitute and appoint ſuch Aſſiſtants, Deputies, and Officers as they ſhall finde requiſite. And to ſend for, and examine all perſons concerned in the premiſes as Parties or Witneſſes: All which ſhall be done, and the charge thereof allowed out of the ſaid ſequeſtred Eſtates; any Order, or Ordinance to the contrary in any wiſe notwithſtanding.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Brown</hi> Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="2" facs="tcp:42826:6"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 23 April. 1645.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Ordinance of the Lords and Commons Aſſembled in Parliament, for the ſetling of Mr. <hi>Philip Goodwyn</hi> in the Vicaridge of <hi>Watford,</hi> and of Dr. <hi>Burges,</hi> in the publique, Lecture of the Church of <hi>Pauls</hi> LONDON.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Parliament aſſembled, did by an Ordet of the ſixteenth of December 1643. appoint and conſtitute Dr. <hi>Cornelius Burges</hi> Vicar of <hi>Watford</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hertford,</hi> to be publike Lecturer in the Church of <hi>Pauls London;</hi> and for his incouragement therein did further Order, That four hundred pounds <hi>per an<g ref="char:EOLhyphen"/>num</hi> ſhould be paid unto him quarterly out of the ſequeſtred Eſtates of the Deane, and Deane and Chap<g ref="char:EOLhyphen"/>ter of the ſaid Church. And whereas by another Or<g ref="char:EOLhyphen"/>der of both Houſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Parliament of the twelfth of March 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord Major of <hi>London,</hi> and Court of Aldermen there, are appointed and Authorized to ſeize and Sequeſter into their hands, the Houſes, Rents and Revenues of the ſaid Deane, Deane and Chapter, and other Prebendaries, Officers, and Miniſters, belonging to the ſaid Cathedrall Church in right of the ſaid Church. And that out of the ſaid Revenues, they ſhould pay to the ſaid Doctor <hi>Burges</hi>
+               <pb n="3" facs="tcp:42826:6"/>
+one hundred pounds at the end of every quarter of the yeare, the firſt Payment to begin at the then next Lady day, and thence to continue. And moreover that they ſhould ſet out and deliver unto him, a good and convenient houſe for his dwelling, well Repayred and fitted for his uſe, which is done accordingly (as by the ſaid Orders among other things appeareth) It is now Ordered, and Ordained, and be it Ordered and Ordained by the ſaid Lords and Commons, that the ſaid Church of <hi>Watford</hi> ſhall be void, and quit of the ſaid Doctor <hi>Burges;</hi> And that <hi>Philip Goodwyn</hi> ſhall be from henceforth Vicar of <hi>Watford,</hi> and offi<g ref="char:EOLhyphen"/>ciate the ſaid Cure as Vicar thereof; and ſhall have, and receive to himſelfe, all Tythes, Oblations, Penſi<g ref="char:EOLhyphen"/>ons, Annuities, Houſes, Duties, Profits, and Commodi<g ref="char:EOLhyphen"/>ties whatſoever thereto belonging, from the 25. day of <hi>December,</hi> one thouſand ſix hundred fortie three, (he diſcharging the Cure, and paying all payments and duties iſſuing thence from the time aforeſaid) for and during his naturall life, in as ample manner, to all intents and purpoſes as the ſaid Doctor <hi>Burges,</hi> or any other Vicar heretofore enjoyed the ſame, without any further Preſentation, Admiſſion, or In<g ref="char:EOLhyphen"/>duction. And it is alſo Ordained, and be it Ordained by the ſaid Lords and Commons in Parliament, That the ſaid yearely allowance of foure hundred pounds, ſhall be well and conſtantly paid out of the ſaid Reve<g ref="char:EOLhyphen"/>nues of the ſaid Church, to the ſaid Doctor <hi>Burges</hi> quarterly as aforeſaid, by the ſaid Lord Major and Court of Aldermen, for, and during his naturall life, he performing the Lectures in the ſaid Church, as by the ſaid Lords and Commons he is Ordered to doe. And it is likewiſe Ordained, That the ſaid Doctor
+<pb n="4" facs="tcp:42826:7"/>
+               <hi>Burges,</hi> ſhall have and enjoy the Houſe ſet out by the ſaid Lord Major and Court of Aldermen for his dwelling, Scituate and being in, or neere Pauls-Church yard, and late in the poſſeſſion and uſe of Do<g ref="char:EOLhyphen"/>ctor <hi>Steward</hi> Deane of <hi>Pauls;</hi> Together with all Out<g ref="char:EOLhyphen"/>lets, Eaſements, Commodities, Gardens, and Appur<g ref="char:EOLhyphen"/>tenances thereto belonging, in as ample manner as the ſaid Doctor <hi>Steward,</hi> or any other before him enjoy<g ref="char:EOLhyphen"/>ed the ſame, for and during the naturall life of him the ſaid Dr. <hi>Burges.</hi> And for the more certaine payment of the ſaid Annuall ſumme of foure hun<g ref="char:EOLhyphen"/>dred pounds, to the ſaid Doctor <hi>Burges</hi> as aforeſaid, Be it further Ordained by the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, and by the Authoritie of the ſame, That all and everie Farmer, Tenant, Leaſee, and everie other perſon and perſons, within the King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> who doe, or ſhall owe, or ought to pay any Rents, Iſſues, Fines, Heriots, Profits, ſumme, or ſummes of Money, or ought elſe reſerved upon any Leaſe, Covenant, or A<g ref="char:EOLhyphen"/>greement to the ſaid Deane, Deane and Chapter, or other Prebendaries, Officers, or Miniſters of the ſaid Cathedrall Church, in right thereof (except for the Houſe and premiſes granted to the ſaid Doctor <hi>Bur<g ref="char:EOLhyphen"/>ges</hi> as aforeſaid) ſhall from time to time pay the ſame, and all Arrerages thereof unto the ſaid Lord Major and Aldermen, or to their Sub-Committee, Aſſi<g ref="char:EOLhyphen"/>ſtants, or other perſon or perſons by them Authori<g ref="char:EOLhyphen"/>zed to receive the ſame, as it is or ſhall grow due, and to no other perſon or perſons whatſoever; And that the Acquittance of ſuch Receiver thereof under his hand, ſhall be a ſufficient diſcharge to everie perſon ſo paying the ſame againſt all other perſons whatſoever,
+<pb n="5" facs="tcp:42826:7"/>
+any Reſervation, Covenant, Proviſo, or other thing to the contrarie notwithſtanding: And that the ſaid Lord Major and Court of Aldermen, their Sub-Com<g ref="char:EOLhyphen"/>mittee, or Aſſiſtants, or any foure or more of them, ſhall hereby have, and uſe the ſame and the like pow<g ref="char:EOLhyphen"/>er, authoritie, and aſſiſtance, for, and in the diſcove<g ref="char:EOLhyphen"/>rie, ſeizing, and getting into their hands, all and eve<g ref="char:EOLhyphen"/>rie the premiſes (except before excepted) as they are and ſhall become due, And all Arrearages thereof, as is granted by any Ordinance of Parliament, or Ex<g ref="char:EOLhyphen"/>planation thereof, to any other Sequeſtrators or Committee for Sequeſtrations, of the Eſtates of Pa<g ref="char:EOLhyphen"/>piſts and other Delinquents, as if the ſaid Lord Ma<g ref="char:EOLhyphen"/>jor, Aldermen, their Aſſiſtants, Sub-Committees, and Receivers, and everie of them, had beene particular<g ref="char:EOLhyphen"/>ly named in ſuch Ordinance, or Explanation: And that out of the ſaid Rents, Iſſues, Revenues, and Pro<g ref="char:EOLhyphen"/>fits, ſo from time to time received, the Receiver or Treaſurer thereof for the time being, ſhall at the end of everie quarter of the yeare, pay the full ſumme of one hundred pounds lawfull Money, to the ſaid Doctor <hi>Burges</hi> conſtantly, during his naturall life, without further, or other Order or warrant from any perſon or perſons whatſoever, before the ſaid Trea<g ref="char:EOLhyphen"/>ſurer Iſſue or pay out any other ſumme or ſummes of Money out of the premiſed Rents or Revenues, to a<g ref="char:EOLhyphen"/>ny other perſon or perſons for any other matter, cauſe, or thing whatſoever; And that all and everie perſon and perſons, that hath done, or ſhall doe any thing in purſuance of, or obedience to the ſaid for<g ref="char:EOLhyphen"/>mer Order of the twelfth of <hi>March,</hi> 1643. (Which Order is hereby Ordained alſo to be ſtill in force, and to be fully obeyed by all whom it may concerne) or
+<pb n="6" facs="tcp:42826:8"/>
+that ſhall doe anything in purſuance and obedience of this preſent Ordinance, ſhall therein be eſteemed to doe an acceptable Service to the Kingdome, and have the protection of both Houſes of Parliament for their Indempnitie. And if the ſaid Sequeſtred Eſtates and Revenues, or any part thereof, ſhall here<g ref="char:EOLhyphen"/>after be put into any other hands then now they be, or otherwiſe Aliened, Sold, or diſpoſed of, It is yet further Ordained, by the Authoritie afore<g ref="char:EOLhyphen"/>ſaid, That good and ſufficient Proviſion ſhall be made in the paſſing and diſpoſall thereof, whereby the ſaid Doctor <hi>Burges</hi> may, and ſhall by all the time afore<g ref="char:EOLhyphen"/>ſaid, well and truely, by quarterly payments receive the aforeſaid yearely allowance of foure hundred pounds out of the ſaid Sequeſtred Eſtates and Reve<g ref="char:EOLhyphen"/>nues, and enjoy the Houſe aboveſaid, and all other the premiſes according to the true Intention of this pre<g ref="char:EOLhyphen"/>ſent Ordinance, any Order, Act, or Ordinance, made or to be made to the contrarie hereof, in any wiſe notwithſtanding. And to the end this Ordinance may be better knowne and obeyed, It is Ordered, that this Ordinance be Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Jo. Brown Cleric. Parliamentor.</item>
+                     <item>H. Elſynge Cler. Parl. D.Com.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42826:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
